@@ -1,1 +1,1 @@
-console.warn('test3 from ts')
+require('./Header/Header');
