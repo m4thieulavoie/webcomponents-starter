@@ -1,10 +1,13 @@
 # webcomponents-starter
 
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
 `webcomponents-starter` aims to be a battery-included starter project for any Web Components enthousiasth. Its goal is to accelerate your development process by providing all the behind-the-scenes tools, such as
 
 - Webpack
 - Typescript
 - SASS
+- Prettier/eslint/stylelint
 - A few Web Components examples (Made with FAST here)
 
 This repo is based on this [vaadin article](https://vaadin.com/learn/tutorials/using-web-components) for Web Components in Webpack, and this [Webpack article](https://webpack.js.org/guides/typescript/) for the Typescript support

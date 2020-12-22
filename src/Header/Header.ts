@@ -1,5 +1,4 @@
-import { FASTElement, customElement } from "@microsoft/fast-element";
-import { html } from "@microsoft/fast-element";
+import { FASTElement, customElement, html } from "@microsoft/fast-element";
 import styles from "./Header.scss";
 
 const template = html`whatsup2`;
@@ -9,4 +8,4 @@ const template = html`whatsup2`;
   template,
   styles: styles.toString(),
 })
-export class HeaderComponent extends FASTElement {}
+export default class HeaderComponent extends FASTElement {}
