@@ -1,12 +1,12 @@
-import { FASTElement, customElement } from '@microsoft/fast-element';
-import { html } from '@microsoft/fast-element';
+import { FASTElement, customElement } from "@microsoft/fast-element";
+import { html } from "@microsoft/fast-element";
+import styles from "./Header.scss";
 
 const template = html`whatsup2`;
 
 @customElement({
-    name: 'name-tag',
-    template,
+  name: "wcs-header",
+  template,
+  styles: styles.toString(),
 })
-export class NameTag extends FASTElement {
-
-}
+export class HeaderComponent extends FASTElement {}

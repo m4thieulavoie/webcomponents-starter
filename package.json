@@ -21,8 +21,11 @@
   },
   "homepage": "https://github.com/m4thieulavoie/webcomponents-starter#readme",
   "devDependencies": {
+    "css-loader": "5.0.1",
     "html-webpack-plugin": "4.5.0",
     "rimraf": "3.0.2",
+    "sass": "1.30.0",
+    "sass-loader": "10.1.0",
     "ts-loader": "8.0.12",
     "typescript": "4.1.3",
     "webpack": "5.11.0",
@@ -30,8 +33,8 @@
     "webpack-dev-server": "3.11.0"
   },
   "dependencies": {
-    "@microsoft/fast-element": "^0.21.1",
-    "@webcomponents/webcomponentsjs": "^2.5.0"
+    "@microsoft/fast-element": "0.21.1",
+    "@webcomponents/webcomponentsjs": "2.5.0"
   },
   "browserslist": {
     "development": [
