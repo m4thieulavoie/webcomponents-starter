@@ -38,7 +38,7 @@ If you want to run the project, simply run
 npm start
 ```
 
-`Webpack` will then indicate you to open `localhost:8080`. When you'll do so, you'll see the project running.
+`Webpack` will then indicate you to open `localhost:3000`. When you'll do so, you'll see the project running.
 
 ## Web Components
 
