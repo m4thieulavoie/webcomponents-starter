@@ -9,6 +9,7 @@
 - SASS
 - Prettier/eslint/stylelint
 - A few Web Components examples (Made with FAST here)
+- vaadin router
 
 This repo is based on this [vaadin article](https://vaadin.com/learn/tutorials/using-web-components) for Web Components in Webpack, and this [Webpack article](https://webpack.js.org/guides/typescript/) for the Typescript support
 
