@@ -7,6 +7,10 @@
   padding: 1rem 2rem;
 
   a {
-    color: blueviolet;
+    color: var(--blue-10);
+
+    &:hover {
+      color: var(--blue-5);
+    }
   }
 }
