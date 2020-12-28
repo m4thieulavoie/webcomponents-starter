@@ -8,6 +8,6 @@ const template = html`
 @customElement({
   name: "wcs-header",
   template,
-  styles: styles.toString(),
+  styles,
 })
 export default class HeaderComponent extends FASTElement {}

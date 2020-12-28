@@ -24,7 +24,6 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "4.11.0",
     "@typescript-eslint/parser": "4.11.0",
-    "css-loader": "5.0.1",
     "eslint": "7.16.0",
     "eslint-config-airbnb-base": "14.2.1",
     "eslint-config-prettier": "7.1.0",
@@ -34,6 +33,7 @@
     "rimraf": "3.0.2",
     "sass": "1.30.0",
     "sass-loader": "10.1.0",
+    "sass-to-string": "1.2.0",
     "stylelint": "13.8.0",
     "stylelint-config-prettier": "8.0.2",
     "stylelint-config-standard": "20.0.0",

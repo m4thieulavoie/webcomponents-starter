@@ -3,7 +3,7 @@ import { Router } from "@vaadin/router";
 import styles from "./app.scss";
 
 const styling = document.createElement("style");
-styling.innerText = styles.toString();
+styling.innerText = styles;
 
 document.querySelector("head").append(styling);
 

@@ -17,9 +17,8 @@ module.exports = () => ({
         exclude: /node_modules/,
       },
       {
-        // Inspired from https://webpack.js.org/loaders/sass-loader/ and https://webpack.js.org/loaders/css-loader/
         test: /\.scss$/i,
-        use: ["css-loader", "sass-loader"],
+        use: ["sass-to-string", "sass-loader"],
       },
     ],
   },

@@ -6,6 +6,6 @@ const template = html`this is not found`;
 @customElement({
   name: "wcs-not-found",
   template,
-  styles: styles.toString(),
+  styles,
 })
 export default class NotFoundComponent extends FASTElement {}
