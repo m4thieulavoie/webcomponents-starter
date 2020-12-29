@@ -13,5 +13,6 @@ module.exports = {
   rules: {
     "import/no-unresolved": 0,
     "no-irregular-whitespace": 0,
+    "import/extensions": 0,
   },
 };
