@@ -11,18 +11,18 @@
 }
 
 body {
-  margin: 0;
-  padding: 0;
   background-color: var(--neutral-1);
   font-family: var(--font-default);
+  margin: 0;
+  padding: 0;
 }
 
 article {
   background-color: var(--neutral-0);
+  border: 1px solid var(--neutral-10);
+  border-radius: 8px;
   margin: 0.5rem auto;
   max-width: 50rem;
   min-height: 10rem;
-  border: 1px solid var(--neutral-10);
-  border-radius: 8px;
   padding: 0 1rem;
 }
