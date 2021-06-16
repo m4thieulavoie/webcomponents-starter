@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/m4thieulavoie/webcomponents-starter#readme",
   "devDependencies": {
-    "@m4thieulavoie/linting": "0.0.10",
+    "@m4thieulavoie/linting": "0.0.11",
     "@typescript-eslint/eslint-plugin": "4.27.0",
     "@typescript-eslint/parser": "4.27.0",
     "eslint": "7.28.0",
