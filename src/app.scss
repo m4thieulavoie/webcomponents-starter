@@ -1,10 +1,10 @@
 :root {
   --neutral-0: #fff;
-  --neutral-1: #{rgba(#d3d3d3, 0.1)};
-  --neutral-5: #{rgba(#d3d3d3, 0.5)};
+  --neutral-1: rgb(211 211 211 / 0.1);
+  --neutral-5: rgb(211 211 211 / 0.5);
   --neutral-10: #d3d3d3;
-  --blue-1: #{rgba(#009ffd, 0.1)};
-  --blue-5: #{rgba(#009ffd, 0.5)};
+  --blue-1: rgb(0 159 253 / 0.1);
+  --blue-5: rgb(0 159 253 / 0.5);
   --blue-10: #009ffd;
   --font-default: -apple-system, blinkmacsystemfont, avenir next, avenir,
     helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
