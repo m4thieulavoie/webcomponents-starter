@@ -41,7 +41,7 @@
     "webpack-dev-server": "4.8.1"
   },
   "dependencies": {
-    "@microsoft/fast-components": "2.27.0",
+    "@microsoft/fast-components": "2.27.1",
     "@microsoft/fast-element": "1.9.0",
     "@microsoft/fast-foundation": "2.41.1",
     "@vaadin/router": "1.7.4",
