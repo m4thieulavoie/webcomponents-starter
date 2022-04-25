@@ -27,7 +27,7 @@
     "fs-extra": "10.1.0",
     "html-webpack-plugin": "5.5.0",
     "postcss": "8.4.12",
-    "postcss-scss": "4.0.3",
+    "postcss-scss": "4.0.4",
     "prettier": "2.6.2",
     "rimraf": "3.0.2",
     "sass": "1.50.1",
