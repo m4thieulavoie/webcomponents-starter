@@ -30,7 +30,7 @@
     "postcss-scss": "4.0.4",
     "prettier": "2.7.1",
     "rimraf": "3.0.2",
-    "sass": "1.54.7",
+    "sass": "1.54.8",
     "sass-loader": "13.0.2",
     "sass-to-string": "1.6.3",
     "ts-loader": "9.3.1",
