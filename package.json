@@ -44,7 +44,7 @@
     "@microsoft/fast-components": "2.30.6",
     "@microsoft/fast-element": "1.11.0",
     "@microsoft/fast-foundation": "2.47.0",
-    "@vaadin/router": "1.7.4",
+    "@vaadin/router": "1.7.5",
     "@webcomponents/webcomponentsjs": "2.7.0"
   },
   "browserslist": {
