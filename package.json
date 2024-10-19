@@ -23,7 +23,7 @@
   "homepage": "https://github.com/m4thieulavoie/webcomponents-starter#readme",
   "devDependencies": {
     "@m4thieulavoie/linting": "0.2.13",
-    "eslint": "8.57.0",
+    "eslint": "9.13.0",
     "fs-extra": "10.1.0",
     "html-webpack-plugin": "5.6.0",
     "postcss": "8.4.40",
