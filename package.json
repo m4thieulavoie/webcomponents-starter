@@ -24,7 +24,7 @@
   "devDependencies": {
     "@m4thieulavoie/linting": "0.2.13",
     "eslint": "8.57.1",
-    "fs-extra": "10.1.0",
+    "fs-extra": "11.3.4",
     "html-webpack-plugin": "5.6.6",
     "postcss": "8.4.40",
     "postcss-scss": "4.0.9",
